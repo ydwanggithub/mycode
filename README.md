@@ -22,7 +22,7 @@ All lessons are available on YouTube. Click any title to watch:
 5. 💰 **Monetization (19 min):** [Watch on YouTube](https://youtu.be/2As9QVGVWZ8)  
 6. 🚀 **Launch (26 min):** [Watch on YouTube](https://youtu.be/nf56yrnoPuo)  
 7. ❌ **Don’t Do This (20 min):** [Watch on Builder's Console Log](https://www.skool.com/ai-for-your-business/about)  
-8. 📚 **Full Guide (3.4 hours):** [Watch on YouTube](https://youtu.be/QI4AGNAQgrM)  
+8. 📚 **Full Guide (3.4 hours):** [Watch on YouTube](https://youtu.be/tvquJI-v8ys)  
 
 > ℹ️ **Tip:** To open multiple links, right-click each link and choose “Open link in new tab.”
 

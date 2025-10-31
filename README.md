@@ -112,8 +112,28 @@ Stay up-to-date with new tutorials, tips, and behind-the-scenes:
 ## 🤝 Help & Questions
 
 Got feedback or want to connect with other builders?  
-Join the **Builder’s Console Log** community on Skool:  
-[![Join Builder’s Console Log](https://img.shields.io/badge/Join-Builders%20Console%20Log-blue)](https://www.skool.com/ai-for-your-business/about)
+Join the **Builder's Console Log** community on Skool:  
+[![Join Builder's Console Log](https://img.shields.io/badge/Join-Builders%20Console%20Log-blue)](https://www.skool.com/ai-for-your-business/about)
+
+---
+
+## 🤝 Contributing
+
+We welcome contributions! Here's how you can help:
+
+1. **Fork the repository** - Create your own copy of the project
+2. **Create a branch** - Make a new branch for your changes (`git checkout -b feature/your-feature-name`)
+3. **Make your changes** - Add features, fix bugs, or improve documentation
+4. **Commit your changes** - Use clear commit messages (`git commit -m "Add: your feature description"`)
+5. **Push to your branch** - Push your changes to GitHub (`git push origin feature/your-feature-name`)
+6. **Create a Pull Request** - Open a PR on GitHub to merge your changes
+
+### Pull Request Process
+
+- Make sure your code follows the existing style
+- Add comments to explain complex logic
+- Update documentation if needed
+- Test your changes before submitting
 
 ---
 
